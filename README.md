@@ -85,7 +85,7 @@
 ## 📜 Certifications & Experience
 
 - 🏅 **Machine Learning Internship** - *Arch Technologies* [[View Certificate](./assets/Arch_Technologies_Certificate.jpeg)]
-- 🏅 **Software Engineering Experience** - *HKS TechLabs* [[View Letter](./assets/HKS_TechLabs_Exp_Letter.jpeg)]
+- 🏅 **Web App Developer** - *HKS TechLabs* [[View Experience Letter](./assets/HKS_TechLabs_Exp_Letter.jpeg)]
 
 ---
 

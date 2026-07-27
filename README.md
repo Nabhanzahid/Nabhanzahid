@@ -1,6 +1,6 @@
 <div align="center">
   <!-- You can replace this with any cool GIF or banner image of your choice! -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Banner" width="600"/>
 
   <h1>🚀 Nabhan Zahid</h1>
   <p><b>AI Engineer • Software Developer • Computer Vision Specialist</b></p>

@@ -82,10 +82,10 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Experience
 
-- 🏅 **Machine Learning Internship** - *Arch Technologies*
-- *(Add your other certifications here!)*
+- 🏅 **Machine Learning Internship** - *Arch Technologies* [[View Certificate](./assets/Arch_Technologies_Certificate.jpeg)]
+- 🏅 **Software Engineering Experience** - *HKS TechLabs* [[View Letter](./assets/HKS_TechLabs_Exp_Letter.jpeg)]
 
 ---
 
@@ -105,7 +105,7 @@
 
 ## 📬 Contact
 
-📫 **Email**: [nabhan.zahid@gmail.com](mailto:nabhan.zahid@gmail.com) *(Update this!)*  
+📫 **Email**: [nabhanzahid66@gmail.com](mailto:nabhanzahid66@gmail.com)  
 🔗 **Portfolio**: [nabhanzahid.vercel.app](https://nabhanzahid.vercel.app)
 
 <br/>

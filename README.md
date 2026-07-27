@@ -1,56 +1,116 @@
 <div align="center">
-  <h1>Hi there, I'm Nabhan Zahid! 👋</h1>
-  <h3>AI Student & Software Engineer | Building intelligent web applications and local-first software.</h3>
-  
-  <p>
-    <a href="https://nabhanzahid.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/nabhan-zahid-28735432b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <!-- You can replace this with any cool GIF or banner image of your choice! -->
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Banner" width="100%"/>
+
+  <h1>🚀 Nabhan Zahid</h1>
+  <p><b>AI Engineer • Software Developer • Computer Vision Specialist</b></p>
+
+  <a href="https://nabhanzahid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nabhan-zahid-28735432b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+💻 **Passionate about AI pipelines, local-first software, and elegant UI/UX.**
+- 🔭 I’m currently building **ClipCut AI** and **Noorani Names**.
+- 🌱 I’m currently learning advanced **Rust** and Systems Engineering.
+- 👯 I’m looking to collaborate on **open-source AI tools**.
+- 💬 Ask me about **Computer Vision, Next.js, and API architecture**.
+
+*I strive to build seamless, highly scalable web apps and high-performance local AI software.*
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+*(Using beautiful skill icons just like that profile!)*
+
+### 💻 Programming Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,rust,cpp" />
+  </a>
+</p>
+
+### 🌐 Frameworks & Libraries
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express" />
+  </a>
+</p>
+
+### 📊 Data Science & AI
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  </a>
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,vercel,postgres,firebase" />
+  </a>
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 **ClipCut AI — Next-Gen Automated Video Engine**
+🔗 [Repository](https://github.com/Nabhanzahid/clipcut-ai-showcase) | 🌐 [Live Demo](https://clipcutai.xyz)
+> High-performance local-first video generation platform built with Rust, FFmpeg, Next.js, and Tauri. Features AI silence trimming and dynamic subtitle generation.
+
+### ✨ **Noorani Names — Elegant Islamic Names Explorer**
+🔗 [Repository](https://github.com/Nabhanzahid/noorani-names-showcase) | 🌐 [Live Demo](https://nooraninames.com)
+> A blazing fast, beautifully designed web app built with Next.js and Tailwind CSS featuring advanced search algorithms and dark mode.
+
+### 🔬 **Lab-Solver — AI Notebook Generator**
+🔗 [Repository](https://github.com/Nabhanzahid/Lab-Solver) | 🌐 [Live App](https://lab-solver.vercel.app/)
+> Automated lab manual solver that outputs custom `.ipynb` files using OpenAI and Gemini APIs in a Bring-Your-Own-Key (BYOK) architecture.
+
+### 👀 **Gaze Analyzer Heatmap**
+🔗 [Repository](https://github.com/Nabhanzahid/gaze-analyzer-heatmap)
+> End-to-end gaze estimation pipeline generating screen coordinate heatmaps, utilizing custom Computer Vision models.
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Machine Learning Internship** - *Arch Technologies*
+- *(Add your other certifications here!)*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabhanzahid&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhanzahid&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhanzahid&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 📬 Contact
 
-- 🎓 **AI Student & Software Engineer** passionate about building robust machine learning pipelines and modern full-stack applications.
-- 🚀 Currently building **[ClipCut AI](https://github.com/Nabhanzahid/clipcut-ai-showcase)** (Next-Gen Automated Video Engine) and **[Noorani Names](https://github.com/Nabhanzahid/noorani-names-showcase)**.
-- 💼 Experienced in computer vision pipelines, time-series forecasting, and building high-performance BYOK (Bring Your Own Key) SaaS tools.
-- 🌱 Always learning and experimenting with cutting-edge AI technologies and systems engineering (Rust/Tauri).
+📫 **Email**: *Add your email here*  
+🔗 **Portfolio**: [nabhanzahid.vercel.app](https://nabhanzahid.vercel.app)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Core:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-**Frameworks & Libraries:**  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=white)
-
-**Data Science & Machine Learning:**  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Database & Cloud:**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabhanzahid&show_icons=true&theme=radical" alt="Nabhan's GitHub Stats" />
+  <i>Thanks for visiting my profile! Let's build something amazing together.</i>
 </div>

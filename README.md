@@ -13,13 +13,14 @@
 
 ## 🧠 About Me
 
-💻 **Passionate about AI pipelines, local-first software, and elegant UI/UX.**
-- 🔭 I’m currently building **ClipCut AI** and **Noorani Names**.
-- 🌱 I’m currently learning advanced **Rust** and Systems Engineering.
-- 👯 I’m looking to collaborate on **open-source AI tools**.
-- 💬 Ask me about **Computer Vision, Next.js, and API architecture**.
+💻 Passionate about AI pipelines, local-first software, and elegant UI/UX.
 
-*I strive to build seamless, highly scalable web apps and high-performance local AI software.*
+🔭 I’m currently building ClipCut AI and Noorani Names.  
+🌱 I’m currently learning advanced Rust and Systems Engineering.  
+👯 I’m looking to collaborate on open-source AI tools.  
+💬 Ask me about Computer Vision, Next.js, and API architecture.  
+
+I strive to build seamless, highly scalable web apps and high-performance local AI software.
 
 ---
 

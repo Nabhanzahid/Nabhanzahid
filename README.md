@@ -1,9 +1,9 @@
 <div align="center">
   <!-- You can replace this with any cool GIF or banner image of your choice! -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Banner" width="600"/>
+  <img src="./assets/Banner.gif" alt="Banner" width="600"/>
 
   <h1>🚀 Nabhan Zahid</h1>
-  <p><b>AI Engineer • Software Developer • Computer Vision Specialist</b></p>
+  <p><b>AI Engineer • Web Developer • Software Developer • Computer Vision Specialist</b></p>
 
   <a href="https://nabhanzahid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/nabhan-zahid-28735432b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

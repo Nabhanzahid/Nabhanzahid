@@ -1,6 +1,6 @@
 <div align="center">
   <!-- You can replace this with any cool GIF or banner image of your choice! -->
-  <img src="./assets/Banner.gif" alt="Banner" width="600"/>
+  <img src="./assets/Banner.gif" alt="Banner" width="100%"/>
 
   <h1>🚀 Nabhan Zahid</h1>
   <p><b>AI Engineer • Web Developer • Software Developer • Computer Vision Specialist</b></p>

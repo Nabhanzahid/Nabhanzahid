@@ -1,6 +1,6 @@
 <div align="center">
   <!-- You can replace this with any cool GIF or banner image of your choice! -->
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Banner" width="100%"/>
 
   <h1>🚀 Nabhan Zahid</h1>
   <p><b>AI Engineer • Software Developer • Computer Vision Specialist</b></p>
@@ -24,8 +24,6 @@
 ---
 
 ## ⚙️ Tech Stack & Tools
-
-*(Using beautiful skill icons just like that profile!)*
 
 ### 💻 Programming Languages
 <p>
@@ -94,20 +92,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabhanzahid&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhanzahid&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabhanzahid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nabhanzahid&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhanzahid&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhanzahid&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
 ## 📬 Contact
 
-📫 **Email**: *Add your email here*  
+📫 **Email**: [nabhan.zahid@gmail.com](mailto:nabhan.zahid@gmail.com) *(Update this!)*  
 🔗 **Portfolio**: [nabhanzahid.vercel.app](https://nabhanzahid.vercel.app)
 
 <br/>

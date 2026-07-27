@@ -13,14 +13,12 @@
 
 ## 🧠 About Me
 
-💻 Passionate about AI pipelines, local-first software, and elegant UI/UX.
+I am a Software Engineer and AI Specialist focused on engineering robust machine learning pipelines, scalable web architectures, and high-performance local software. 
 
-🔭 I’m currently building ClipCut AI and Noorani Names.  
-🌱 I’m currently learning advanced Rust and Systems Engineering.  
-👯 I’m looking to collaborate on open-source AI tools.  
-💬 Ask me about Computer Vision, Next.js, and API architecture.  
-
-I strive to build seamless, highly scalable web apps and high-performance local AI software.
+- 💻 **Systems & Web Architecture:** Designing end-to-end full-stack applications with Next.js, React, and Supabase.
+- 🔬 **AI & Computer Vision:** Developing custom computer vision models, gaze estimation pipelines, and integrating LLMs into production environments.
+- ⚙️ **Local-First Software:** Building secure, cross-platform desktop applications utilizing Rust and Tauri for maximum performance.
+- 🚀 **Current Focus:** Leading the development of proprietary platforms like ClipCut AI and Noorani Names.
 
 ---
 

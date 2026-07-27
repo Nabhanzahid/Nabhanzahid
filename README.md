@@ -89,19 +89,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabhanzahid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nabhanzahid&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhanzahid&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
 
 ## 📬 Contact
 
